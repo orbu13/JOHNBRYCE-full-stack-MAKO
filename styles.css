@@ -1,0 +1,185 @@
+body{
+    max-width: none;
+    max-width: 60%;
+    margin: 0 auto;
+
+}
+.header{
+    background-color: #122536;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+.search{
+    padding: 10px;
+    color: white;
+    background-color: aquamarine;
+    padding: 8px;
+    margin: 10px;
+}
+.search:hover{
+    font-size: 18px;
+}
+.envelope{
+    padding-left:80px;
+    color: white;
+}
+.facebook{
+    color: white;
+}
+.navbar{
+    background-color: #dce9ed;
+}
+.add img{
+    max-width: none;
+    max-width: 100%;
+    width: 1400px;
+}
+.news{
+    max-width: none;
+    max-width: 100%;
+    background-image: url(https://img.mako.co.il/2024/02/15/21h12m01s596_autoOrient_x6.jpg);
+    background-size: cover;
+    width: 1824px;
+    height: 600px;
+    display: block;
+}
+.live-news{
+background-color: #122536;
+color: white;
+text-align: right;
+}
+.live-news h4{
+    background-color: red;
+}
+.more-news{
+    margin-top: -9px;
+    max-width: none;
+    display: flex;
+    color: white;
+    text-align: center;
+    display: flex;
+    position: relative;
+}
+
+.solider{
+    max-width: none;
+    background-image:url(https://img.mako.co.il/2021/04/29/625754pic_Orig_autoOrient_i.jpg) ;
+    background-size: cover;
+    width: 350px;
+    height: 300px;
+}
+.airport{
+    max-width: none;
+    background-image: url(https://img.mako.co.il/2023/06/14/canabis_140623_natbag_autoOrient_w.jpg) ;
+    background-size: cover;
+    width: 350px;
+    height: 300px;
+}
+.home{
+    max-width: none;
+    background-image: url(https://img.mako.co.il/2023/09/13/m617_130923_eilat_R1_autoOrient_w.jpg);
+    background-size: cover;
+    width: 350px;
+    height: 300px;
+}
+.couple{
+    max-width: none;
+    background-image: url(https://img.mako.co.il/2024/02/15/FFKDLD_autoOrient_w.jpg);
+    background-size: cover;
+    width: 350px;
+    height: 300px;
+}
+.war{
+    max-width: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: row-reverse;
+    text-align: center;
+    background-color: rgba(37, 37, 37, 1);
+    color: white;
+    flex-wrap: wrap;  
+}
+.new3{
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+.border1{
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    width: 350px;
+    height: 300px;
+}
+.border1 h2, .border2 h2{
+    color: red;
+}
+.border1 h3, .border2 h3{
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+}
+.border2{
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    width: 350px;
+    height: 300px;
+}
+.border3{
+    background-image: url(https://images.storycards.co/cdn-cgi/image/trim.left=0,trim.top=285,trim.width=430,trim.height=683,width=200,quality=80,format=auto/2023/05/09/1683635588582-45e4b570-9cff-47fc-8bac-a4817772e4ba.png?oW=568&oH=1307&fsz=cover);
+    padding: 10px;
+    margin: 10px;
+    width: 350px;
+    height: 300px;
+    text-align: right;
+
+}
+.new3 h1{
+    background-image: linear-gradient(88.96deg, rgb(190, 80, 0) -13.28%, rgb(179, 17, 17) 106.36%);
+    color: white;
+    text-align: right;
+    font-size: 15px;
+}
+.buttom button{
+    width: 1200px;
+    height: 40px;
+    background-image: url(https://images.storycards.co/cdn-cgi/image/trim.left=0,trim.top=17,trim.width=1920,trim.height=90,width=1440,quality=80,format=auto/2023/05/09/1683636062334-f395d8f7-885a-4dd2-b252-15209f359b44.png?oW=1920&oH=124&fsz=cover);
+    font-size: 20px;
+}
+.buttom button a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+.orel{
+    max-width: 100%;
+    background-size: cover;
+    width: 1824px;
+    height: 600px;
+    display: block;
+    margin-bottom: 40px;
+}
+.gum{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+    align-items: stretch;
+}
+.flex-ul{
+    display: flex;
+list-style: none;}
+.li1{
+background-color: blue;
+text-align: center;
+}
+.li1 h3{
+    color: red;
+    font-size: 14px;
+}
